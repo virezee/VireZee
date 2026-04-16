@@ -7,7 +7,7 @@
 	<tr>
 			<td align="center">Programming Languages</td>
 			<td align="center">
-				<a href="https://rust-lang.org/"target="_blank"><img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/refs/heads/master/logo/rust-logo-blk.svg"alt="rust"width="100"height="100"/></a>
+				<a href="https://rust-lang.org/"target="_blank"><img src="https://www.rust-lang.org/logos/rust-logo-blk.svg"alt="rust"width="150"height="150"/></a>
 				<a href="https://go.dev/"target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg"alt="go"width="100"height="100"/></a>
 				<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"alt="javascript"width="100"height="100"/></a>
 				<a href="https://www.typescriptlang.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"alt="typescript"width="100"height="100"/></a>
