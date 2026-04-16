@@ -1,13 +1,15 @@
 <h2 align="center">Ǝ x<sub>1</sub> ¬ Ǝ x<sub>2</sub> (x<sub>2</sub> ∈ x<sub>1</sub>)</h2>
 <h2 align="center">∨</h2>
-<h2 align="center">Ǝ x<sub>1</sub> ∀ x<sub>2</sub> (x<sub>2</sub> ∈ x<sub>1</sub> ⟺ (¬ Ǝ x<sub>3</sub> (x<sub>3</sub> ∈ x<sub>2</sub>) ∨ ∀ x<sub>3</sub> (x<sub>3</sub> ∈ x<sub>2</sub> ⟺ ¬ Ǝ x<sub>4</sub> (x<sub>4</sub> ∈ x<sub>3</sub>))))</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=%FF00FF00&lines=I'm+not+a+Programmer,+I'm+a+Professional+Google+Searcher&center=true&vcenter=true&width=700"></h2>
+<h2 align="center">Ǝ x<sub>1</sub> ∀ x<sub>2</sub> (x<sub>2</sub> ∈ x<sub>1</sub> ⟺ (¬ Ǝ x<sub>3</sub> (x<sub>3</sub> ∈ x<sub>2</sub>) ∨ ∀ x<sub>3</sub> (x<sub>3</sub> ∈ x<sub>2</sub> ⟺ ¬ Ǝ x<sub>4</sub> (x<sub>4</sub> ∈ x<sub>3</sub>))))</h2>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=%FF00FF00&lines=I'm+not+a+Programmer,+I'm+a+Professional+Google+Searcher&center=true&vcenter=true&width=700"></h3>
 <table align="center">
-	<th colspan="2"><h3>INTERESTS</h3></th>
+	<th colspan="2">
+		<h3>INTERESTS</h3>
+	</th>
 	<tr>
 			<td align="center">Programming Languages</td>
 			<td align="center">
-				<a href="https://rust-lang.org/"target="_blank"><img src="https://www.rust-lang.org/logos/rust-logo-blk.svg"alt="rust"width="150"height="150"/></a>
+				<a href="https://rust-lang.org/"target="_blank"><img src="https://www.rust-lang.org/logos/rust-logo-blk.svg"alt="rust"width="100"height="100"/></a>
 				<a href="https://go.dev/"target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg"alt="go"width="100"height="100"/></a>
 				<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"alt="javascript"width="100"height="100"/></a>
 				<a href="https://www.typescriptlang.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"alt="typescript"width="100"height="100"/></a>
